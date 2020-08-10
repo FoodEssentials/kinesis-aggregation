@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "async": "1.5.2",
-        "protobufjs": "5.0.1",
+        "protobufjs": "6.10.1",
         "aws-kinesis-agg": "2.2.2"
     },
     "keywords": [
